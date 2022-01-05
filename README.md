@@ -1,6 +1,6 @@
 ## Python Web Scraping and Automation
 
-<h1 align="center">Selenium and Beautifuloup Based Web Scraping and Automation Scripts</h1>
+<h1 align="center">Selenium and BeautifulSoup Based Web Scraping and Automation Scripts</h1>
 <div align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
@@ -9,12 +9,9 @@
 
 <br>
 
-<a href="https://flutter.io/">Flutter</a> Flutter allows you to build beautiful native apps on iOS and Android Platforms from a single codebase. The main goal of this repository is to find free open source apps and start contributing to it. Feel free to [contribute](https://github.com/tortuvshin/open-source-flutter-apps/graphs/contributors) to the list, any suggestions are always welcomed!
-
-<div>
-<img src="https://raw.githubusercontent.com/preneure/chatify_flutter_firebase_chat_application/master/assets/preview/preview_2.png" alt="feed example" width="200">
-<img src="https://raw.githubusercontent.com/preneure/chatify_flutter_firebase_chat_application/master/assets/preview/preview_4.png" alt="feed example" width="200">
-</div>
+<a href="https://www.selenium.dev/">Selenium</a> Primarily it is for automating web applications for testing purposes, but is certainly not limited to just that.
+Boring web-based administration tasks can (and should) also be automated as well.
+<a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/">Beautiful Soup</a> is a Python library for pulling data out of HTML and XML files. It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree. It commonly saves programmers hours or days of work.
 </p>
 
 ### Discord
